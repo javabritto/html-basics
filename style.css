@@ -1,0 +1,37 @@
+table, th, td {
+
+    border: 1px solid;
+ }
+ table {
+    width: 50%;
+    border-collapse: collapse;
+  }
+  th {
+    background-color: #aa5d04;
+    color: white;
+  }
+  /***Hoverable Table***/
+  tr:hover {
+    background-color: coral;
+}
+h1{
+    color:rgb(234, 0, 255);
+}
+body {
+    color: blue;
+    
+    
+  }
+  /****
+  background:url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAgeas&psig=AOvVaw2rIEC-dgfP6EFSKzGrYxsy&ust=1687069015186000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNDPuILUyf8CFQAAAAAdAAAAABAE);
+  opacity: 0.2;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1; ***/
+
+ 
+         
+      
